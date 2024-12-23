@@ -78,8 +78,6 @@
 - web dev
 - game dev
 
-#### 🌱 I’m currently learning :
-- programming languages & web
 #### 📫 How to reach me :
 &nbsp;    mail : must0second0unnamed64@gmail.com 
 
