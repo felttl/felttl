@@ -83,6 +83,8 @@
 #### 📫 How to reach me :
 &nbsp;    mail : must0second0unnamed64@gmail.com 
 
+[tech details](https://github.com/felttl/root)
+
 ((github official) for reply or any questions, it's still available anytime)
 <div align="left">
   <a href="www.linkedin.com/in/félix-tôn-thât-lavarini-63ab6033b" title="only professional !">
