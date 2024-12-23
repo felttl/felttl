@@ -2,7 +2,7 @@
 
 ### Technology
 
-<-- languages & others -->
+;; languages & others 
 <div align="left"> 
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="c" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" title="bash" />
