@@ -2,7 +2,8 @@
 
 ### Technology
 
-<div align="left"> <-- languages & others -->
+<-- languages & others -->
+<div align="left"> 
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="c" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" title="bash" />
 
@@ -27,7 +28,8 @@
   <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo" title="swift" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" title="docker" />
 </div>
-<div align="left"> <!-- apps & editors -->
+<!-- apps & editors -->
+<div align="left"> 
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" title="androidStudio" />
   <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="sublime logo" title="sublime editor" />
   <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo" title="replit user (outdated)" />
@@ -41,7 +43,8 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="vscode" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" title="blender (basics)" />
 </div>
-<div align="left"> <--! OS -->
+<--! OS -->
+<div align="left">
   <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo" title="kali Linux OS (apt)" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" title="linux OS" />
   <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo" title="ubuntu OS (apt)" />
