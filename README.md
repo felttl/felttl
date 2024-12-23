@@ -85,7 +85,7 @@
 
 ((github official) for reply or any questions, it's still available anytime)
 <div align="left">
-  <a href="www.linkedin.com/in/félix-tôn-thât-lavarini-63ab6033b" title="only professional !">
+  <a href="https://www.linkedin.com/in/félix-tôn-thât-lavarini-63ab6033b" title="only professional !">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" title="linkedin" />
   </a>
 </div>
