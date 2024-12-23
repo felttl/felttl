@@ -81,7 +81,7 @@
 #### 📫 How to reach me :
 &nbsp;    mail : must0second0unnamed64@gmail.com 
 
-[tech details](https://github.com/felttl/root)
+[tech details](https://github.com/felttl/root/README.md)
 
 ((github official) for reply or any questions, it's still available anytime)
 <div align="left">
