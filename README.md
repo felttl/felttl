@@ -65,21 +65,21 @@
 ### stats
 <table>
 <tr>
-  <td valign="top" width="50%">
+  <td valign="top" width="auto">
     <div align="center">  
      <img src="https://github-readme-stats.vercel.app/api?username=felttl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" alt="stats graph"  />
     </div>
   </td>
-  <td valign="top" width="50%">
+  <td valign="top" width="auto">
     <div align="center">  
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felttl&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=false&order=2" alt="languages graph"  />
     </div>
   </td>
 </tr>
 <tr>
-  <td valign="top" width="100%">
+  <td valign="top" width="auto">
     <div align="center">  
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=felttl&mode=weekly" height="100%" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=felttl&mode=weekly"" alt="GitHub Streak" />
     </div>
   </td>
 </tr>
