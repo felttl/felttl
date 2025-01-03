@@ -1,5 +1,8 @@
 #### 👋 Hi, I’m @felttl
 
+“Everything should be made as simple as possible, but not simpler.” 
+Albert Einstein
+
 ### Technology
 
 <div align="left"> 
