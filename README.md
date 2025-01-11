@@ -4,7 +4,7 @@
 Albert Einstein
 
 ### Technology
-
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
 <div align="left"> 
   <!-- languages & others -->
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="c" />
