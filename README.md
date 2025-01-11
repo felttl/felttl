@@ -30,10 +30,6 @@ Albert Einstein
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" title="docker" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="c logo" title="postgres" />
   <img src="https://skillicons.dev/icons?i=redhat" height="40" alt="c logo" title="redhat" />
-  
-![RabbitMQ Logo](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20257.45%2040.98%22%3E%3Cpath%20fill%3D%22%23f60%22%20d%3D%22M39.42%2C17.37H26.65a1.59%2C1.59%2C0%2C0%2C1-1.6-1.6V3a1.59%2C1.59%2C0%2C0%2C0-1.6-1.59H18.67A1.59%2C1.59%2C0%2C0%2C0%2C17.07%2C3V15.77a1.59%2C1.59%2C0%2C0%2C1-1.6%2C1.6H10.69a1.59%2C1.59%2C0%2C0%2C1-1.6-1.6V3A1.59%2C1.59%2C0%2C0%2C0%2C7.49%2C1.4H2.7A1.59%2C1.59%2C0%2C0%2C0%2C1.11%2C3V39.72a1.59%2C1.59%2C0%2C0%2C0%2C1.6%2C1.6H39.42a1.59%2C1.59%2C0%2C0%2C0%2C1.6-1.6V19A1.59%2C1.59%2C0%2C0%2C0%2C39.42%2C17.37ZM33%2C30.93a2.39%2C2.39%2C0%2C0%2C1-2.39%2C2.4h-3.2a2.39%2C2.39%2C0%2C0%2C1-2.39-2.4V27.74a2.39%2C2.39%2C0%2C0%2C1%2C2.39-2.4h3.2A2.39%2C2.39%2C0%2C0%2C1%2C33%2C27.74v3.19Z%22%2F%3E%3C%2Fsvg%3E)
-
-  
 </div>
 <!-- apps & editors -->
 <div align="left"> 
