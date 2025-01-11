@@ -28,7 +28,19 @@ Albert Einstein
   <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo" title="r (studio)" />
   <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo" title="swift" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" title="docker" />
-
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="c logo" title="postgres" />
+  <img src="https://skillicons.dev/icons?i=redhat" height="40" alt="c logo" title="redhat" />
+  <svg 
+    id="Layer_1" 
+    data-name="Layer 1" 
+    xmlns="http://www.w3.org/2000/svg" 
+    viewBox="0 0 40 40">
+    <defs>
+      <style>.cls-1{fill:#a9b5af;}.cls-2{fill:#f60;}</style>
+    </defs>
+    <title>RabbitMQ_Logo_RGB</title>
+    <path class="cls-2" d="M39.42,17.37H26.65a1.59,1.59,0,0,1-1.6-1.6V3a1.59,1.59,0,0,0-1.6-1.59H18.67A1.59,1.59,0,0,0,17.07,3V15.77a1.59,1.59,0,0,1-1.6,1.6H10.69a1.59,1.59,0,0,1-1.6-1.6V3A1.59,1.59,0,0,0,7.49,1.4H2.7A1.59,1.59,0,0,0,1.11,3V39.72a1.59,1.59,0,0,0,1.6,1.6H39.42a1.59,1.59,0,0,0,1.6-1.6V19A1.59,1.59,0,0,0,39.42,17.37ZM33,30.93a2.39,2.39,0,0,1-2.39,2.4h-3.2a2.39,2.39,0,0,1-2.39-2.4V27.74a2.39,2.39,0,0,1,2.39-2.4h3.2A2.39,2.39,0,0,1,33,27.74v3.19Z" transform="translate(-1.11 -0.98)"/>
+  </svg>
   
 </div>
 <!-- apps & editors -->
