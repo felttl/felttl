@@ -46,7 +46,7 @@ Albert Einstein
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="vscode" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" title="blender (basics)" />
   <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" title="discord" />
-
+  <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="c logo" title="obsidian" />
 </div>
 <!-- OS -->
 <div align="left">
