@@ -62,7 +62,7 @@ Albert Einstein
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" title="react" />
   <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="symfony logo" title="symfony" />
-
+  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="c logo" title="svelte for the web" />
 </div>
 
 ### stats
