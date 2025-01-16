@@ -98,11 +98,12 @@ Albert Einstein
 - game dev
 
 #### 📫 How to reach me :
+######  for reply or any questions, it's still available anytime (github official)<br>
 &nbsp;    mail : must0second0unnamed64@gmail.com 
+
 
 [tech details](https://github.com/felttl/root/blob/main/README.md)
 
-((github official) for reply or any questions, it's still available anytime)
 <div align="left">
   <a href="https://www.linkedin.com/in/félix-tôn-thât-lavarini-63ab6033b" title="only professional !" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" title="linkedin" />
