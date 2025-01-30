@@ -1,11 +1,13 @@
 #### 👋 Hi, I’m @felttl
-
+<pre>
 “Everything should be made as simple as possible, but not simpler.” - Albert Einstein
 “Less is more.” - Peter Behrens & Ludwig Mies van der Rohe
 “Hard work beats talent when talent doesn’t work hard.“ – Tim Notke
 “What makes you different or weird, that’s your strength.“ — Meryl Streep
 “It does not matter how slowly you go as long as you do not stop.“ – Confucius
-“People With Passion Can Change The World.“ - Steve Jobs
+“People With Passion Can Change The World.“ - Steve Jobs 
+</pre>
+
 
 ### Technology
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
