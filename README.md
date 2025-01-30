@@ -13,6 +13,7 @@ Albert Einstein
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" title="py flask" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" title="mysql db" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite" title="sqlite db" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap logo" title="bootstrap" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" title="html" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" title="css" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo" title="js" />
@@ -30,6 +31,7 @@ Albert Einstein
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" title="docker" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="c logo" title="postgres" />
   <img src="https://skillicons.dev/icons?i=redhat" height="40" alt="c logo" title="redhat" />
+   <img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo" title="svg" />
 </div>
 <!-- apps & editors -->
 <div align="left"> 
