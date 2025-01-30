@@ -10,6 +10,7 @@ Albert Einstein
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="c" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" title="bash" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" title="java" />
+  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo" title="gradle" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" title="py flask" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" title="mysql db" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite" title="sqlite db" />
@@ -29,9 +30,11 @@ Albert Einstein
   <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo" title="r (studio)" />
   <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo" title="swift" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" title="docker" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="c logo" title="postgres" />
-  <img src="https://skillicons.dev/icons?i=redhat" height="40" alt="c logo" title="redhat" />
-   <img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo" title="svg" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo" title="postgres" />
+  <img src="https://skillicons.dev/icons?i=redhat" height="40" alt="redhat logo" title="redhat" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo" title="rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo" title="svg" />
+  gradle
 </div>
 <!-- apps & editors -->
 <div align="left"> 
