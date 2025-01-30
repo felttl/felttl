@@ -16,6 +16,7 @@
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="c" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" title="bash" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" title="java" />
+  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo" title="gradle" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" title="py flask" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" title="mysql db" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite" title="sqlite db" />
@@ -39,7 +40,6 @@
   <img src="https://skillicons.dev/icons?i=redhat" height="40" alt="redhat logo" title="redhat" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo" title="rabbitmq" />
   <img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo" title="svg" />
-  gradle
 </div>
 <!-- apps & editors -->
 <div align="left"> 
