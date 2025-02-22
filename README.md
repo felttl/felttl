@@ -8,6 +8,8 @@
 “People With Passion Can Change The World.“ - Steve Jobs 
 </pre>
 
+<img src="svg-animation-stroke.svg" height="300px" width="100%"/>
+
 
 ### Technology
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
