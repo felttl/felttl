@@ -42,6 +42,8 @@
   <img src="https://skillicons.dev/icons?i=redhat" height="40" alt="redhat logo" title="redhat" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo" title="rabbitmq" />
   <img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo" title="svg" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" title="react" />
+
 </div>
 <!-- apps & editors -->
 <div align="left"> 
@@ -72,14 +74,11 @@
 ### soon 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" title="react" />
   <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="symfony logo" title="symfony" />
   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="c logo" title="svelte for the web" />
   <img src="https://quantumai.google/static/site-assets/images/marketing/icons/shared-ic-cirq.png" height="40" alt="Cirq logo" title="Cirq library" />
   <img src="./qiskit.svg" height="40" alt="Qiskit logo" title="Qiskit Framework" />
-  <!-- <img src="https://avatars.githubusercontent.com/u/30696987?s=280&v=4" height="40" alt="Cirq logo" title="Cirq Framework" style="background-color: white;"/> -->
-
-
+  
 </div>
 
 
