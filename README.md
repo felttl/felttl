@@ -116,8 +116,10 @@
 
 #### 📫 How to reach me :
 ######  for reply or any questions, it's still available anytime (github official)<br>
-&nbsp;    mail : must0second0unnamed64@gmail.com 
-
+&nbsp;     
+<a target="_blank" href="mailto:must0second0unnamed64@gmail.com">
+  <img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
 [tech details](https://github.com/felttl/root/blob/main/README.md)
 
