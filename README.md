@@ -8,7 +8,13 @@
 “People With Passion Can Change The World.“ - Steve Jobs 
 </pre>
 
+
+
 <img src="svg-animation-stroke.svg" height="300px" width="100%"/>
+<p>
+  <img alt="Visitors" src="https://api.visitorbadge.io/api/visitors?path=felttl&labelColor=%232e3440&countColor=%23c7ced9&style=flat-square&labelStyle=lower" />
+</p>
+  
 
 
 ### Technology
