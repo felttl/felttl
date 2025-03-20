@@ -98,7 +98,7 @@
   </td>
   <td valign="top" width="auto">
     <div align="center">  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felttl&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=false&order=2" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felttl&locale=en&hide_title=false&layout=compact&langs_count=10&theme=dark&hide_border=false&order=2" alt="languages graph"  />
     </div>
   </td>
 </tr>
