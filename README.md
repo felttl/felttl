@@ -119,6 +119,10 @@
 - mobile dev
 - web dev
 - game dev
+- building systems
+- security
+- quantum
+- know most recent news about general computer science
 
 #### 📫 How to reach me :
 ######  for reply or any questions, it's still available anytime (github official)<br>
