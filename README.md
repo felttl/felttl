@@ -138,3 +138,5 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" title="linkedin" />
   </a>
 </div>
+
+<!-- appIdeas = test repo -->
