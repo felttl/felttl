@@ -105,7 +105,7 @@
 <tr>
   <td valign="top" width="auto" colspan="2">
     <div align="center">  
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=felttl&mode=weekly"" alt="GitHub Streak not available now" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=felttl&mode=weekly" alt="GitHub Streak not available now" />
     </div>
   </td>
 </tr>
