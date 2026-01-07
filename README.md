@@ -138,5 +138,8 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" title="linkedin" />
   </a>
 </div>
+<img width="2006" height="1326" alt="XorgErr_" src="https://github.com/user-attachments/assets/fee26da4-5522-40ea-bd05-a1e0ae6baac3" />
+
+
 
 <!-- appIdeas = test repo -->
