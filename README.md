@@ -111,18 +111,24 @@
 </tr>
 </table>
 
+Game Jams : 
 
+- first one : Game "Who Am I"
+  - 48h Rush Jan 30, 2026, 19:00 – Feb 1, 2026, 21:00 (CET)
+  - 8 participants (1 professionnal and 7 beginners (me included))
+  - from University of Bordeaux in France (physically)
+  - https://imanirajdoost.itch.io/who-am-i
+  - https://globalgamejam.org/games/2026/who-am-i-0-0
 
 #### ❤️ my passion
 
-- desktop dev
-- mobile dev
-- web dev
-- game dev
-- building systems
+- desktop/mobile/web/game dev
+- AI
 - security
 - quantum
+- DevOps
 - know most recent news about general computer science
+
 
 #### 📫 How to reach me :
 ######  for reply or any questions, it's still available anytime (github official)<br>
