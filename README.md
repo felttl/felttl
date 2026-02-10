@@ -129,6 +129,13 @@ Game Jams :
 - DevOps
 - know most recent news about general computer science
 
+$PS1 (Kali style)
+(zsh like)
+```bash
+PROMPT_SHELL=${SHELL:t}
+PS1=$'%B%F{green}┌─%F{grey}('"$PROMPT_SHELL"$')%F{green}(%F{blue}%n@%m%F{green})-[%F{white}%~%f%F{green}]\n%F{green}└─%F{blue}$ %F{white}%b'
+```
+
 
 #### 📫 How to reach me :
 ######  for reply or any questions, it's still available anytime (github official)<br>
