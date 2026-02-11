@@ -113,7 +113,7 @@
 
 Game Jams : 
 
-- first one : Game "Who Am I"
+- first one : Game "Who Am I" (theme: "Mask")
   - 48h Rush Jan 30, 2026, 19:00 – Feb 1, 2026, 21:00 (CET)
   - 8 participants (1 professionnal and 7 beginners (me included))
   - from University of Bordeaux in France (physically)
