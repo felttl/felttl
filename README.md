@@ -133,8 +133,24 @@ $PS1 (Kali style)
 (zsh like)
 ```bash
 PROMPT_SHELL=${SHELL:t}
-PS1=$'%B%F{green}┌─%F{grey}('"$PROMPT_SHELL"$')%F{green}(%F{blue}%n@%m%F{green})-[%F{white}%~%f%F{green}]\n%F{green}└─%F{blue}$ %F{white}%b'
+PS1=$'%B%F{green}┌─%F{green}(%F{blue}%n@%m%F{green})-[%F{white}%~%f%F{green}]\n%F{green}└─%F{blue}$ %F{white}%b'
 ```
+(exact Kali)
+<br>
+custom style (reload with cmd "$SHELL" in terminal)
+```bash
+# ~/.shell_prompt
+if [ -n "$ZSH_VERSION" ]; then
+  # Zsh
+  PROMPT_SHELL=${SHELL:t}
+  PS1=$'%B%F{green}┌─%F{green}[%F{blue}%n@%m%F{green}]\n├─(%F{white}%~%f%F{green})\n%F{green}└─%F{blue}$ %F{white}%b'
+elif [ -n "$BASH_VERSION" ]; then
+  # Bash
+  PROMPT_SHELL=$(basename $SHELL)
+  PS1="\[\e[1;32m\]┌─\[\e[1;30m\](${PROMPT_SHELL})\[\e[1;32m\](\[\e[34m\]\u@\h\[\e[32m\])-[\[\e[37m\]\w\[\e[32m\]])\n└─\[\e[34m\]\$ \[\e[0m\]"
+fi
+```
+
 
 
 #### 📫 How to reach me :
