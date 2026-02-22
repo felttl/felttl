@@ -158,12 +158,20 @@ fi
   <img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
+
+
 [tech details](https://github.com/felttl/root/blob/main/README.md)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/félix-tôn-thât-lavarini-63ab6033b" title="only professional !" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" title="linkedin" />
   </a>
+    <a href="https://felttlio.itch.io/" title="itch.io" target="_blank">
+    <img src="https://yt3.googleusercontent.com/ytc/AIdro_kLPXPsWfJ6NhQqbZA8RTgs_tZc-my-bvASFAvMOB7soQ=s160-c-k-c0x00ffffff-no-rj" height="40" alt="itch.io logo" title="itch" />
+
+    
+  </a>
+  
 </div>
 <img width="2006" height="1326" alt="XorgErr_" src="https://github.com/user-attachments/assets/fee26da4-5522-40ea-bd05-a1e0ae6baac3" />
 
